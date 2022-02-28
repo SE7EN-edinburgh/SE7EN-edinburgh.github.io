@@ -1,0 +1,18 @@
+---
+title: Zoe Hopper 
+author: Zoe Hopper 
+date: February 14, 2022
+coverurl: ./assets/images/zoe-hopper.png
+---
+My name is Zoe and I am currently a dance student here in Edinburgh. During the height of the pandemic last year, I moved home to Malaysia to be with family and this brought about a massive change to my routine, independent freedoms and way of living. 
+ 
+Pole dancing and exploring sensuality has increasingly become a passion of mine, but under a strict Chinese household in Malaysia, this felt really restricted. I noticed that I hid away my authentic self in front of the watchful eye of my family, and that ultimately affected my confidence. During the lockdown, I felt so isolated, like so many of us did, without the ability to socialise or do what I love; dance in a studio. However, during this time and almost completely by accident, I found a new hobby and a new community online that brought me so much joy, and still does to this day. 
+ 
+I started drawing pole dancers as a way to still connect to the aerial and pole community while I was stuck at home. I really enjoyed capturing these poses with minimalistic line art, but I started to add floral elements to inject some of my taste and personality into the pieces. As a dancer, I really love movement...and soon enough I started to try my hand at animation. I have had the most amazing time combining my interest in body inclusivity and movement with art, and through it I regained happiness and confidence within myself, using my Instagram account as my creative outlet.
+ 
+With my art I try to create a welcoming and warm space. I love interacting with so many like-minded creatives. I have had the amazing opportunity to connect with some of my favourite artists and brands such as SoyandSpice Lingerie (Australia) and OurBraletteClub (Singapore) and JyGao (Canada). One of the highlights of my year was collaborating with my friend, and pole dancer, Callum Stevens to fundraise for a non-profit organization in Malaysia called SEED who were working hard to support Trans people affected by the pandemic in Malaysia by providing food and groceries, shelter and access to emergency and medical services. We ended up raising RM3186 (approximately £556) for their Trans Solidarity Fund, which completely exceeded our hopes and expectations.  
+ 
+I have been incredibly lucky in my art journey and I am surrounded by inspiration and amazing friends. I started from making drawings of my friends, to animation, and now I have even started a venture with a partner to make ornaments and acrylic lights. I never would have imagined that this account would bring me such opportunities, and I am forever grateful. Throughout the changes in my life, something that has remained constant is my desire to stay true to myself and express that creatively in any capacity I can. 
+ 
+Zoe Hooper
+@x_she.doodles_x

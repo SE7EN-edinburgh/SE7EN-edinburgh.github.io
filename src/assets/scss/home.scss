@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Open+Sans&display=swap');
+$black: #2f2f2f;
+a{
+	text-decoration: none;
+	color: $black;
+}
+link{
+	text-decoration: none;
+	color: $black;
+	
+}
+.home-screen{
+
+		
+	left: 0;
+	height: 100%;
+	width: 100%;
+
+}
+.about-screen{
+
+	left: 0;
+	height: 100%;
+	width: 100%;
+	
+	.content p{
+		color: $black;
+		font-family: 'Coustard';
+		font-weight: 400;
+	}
+	.footer-cred{
+		position: absolute;
+		top: 150%;
+		padding-left: 32px;
+		p{
+			color: $black;
+			font-family: 'Coustard';
+			font-weight: 400;
+		}
+	}
+}
+.blog-screen{
+	left: 0;
+	height: 100%;
+	width: 100%;
+	
+		.content p{
+			color: $black;
+			font-family: 'Coustard';
+			font-weight: 400;
+		}
+	
+}
+.content{
+	margin-top: 8px;
+	
+}
+.footer-cred{
+	padding-left: 32px;
+	p{
+		color: $black;
+		font-family: 'Coustard';
+		font-weight: 400;
+	}
+
+}
