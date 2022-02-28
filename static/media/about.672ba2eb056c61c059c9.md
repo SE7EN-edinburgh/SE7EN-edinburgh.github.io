@@ -6,4 +6,4 @@ The Edinburgh Seven were the first group of matriculated female undergraduate st
 
 Se7en Magazine has been named after these pioneers of women’s education to honour their legacy of women students at the University of Edinburgh.
 
-**Contact us at 
+**Contact us at se7enedinburgh@outlook.com**
