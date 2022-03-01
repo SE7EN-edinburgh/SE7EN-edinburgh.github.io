@@ -1,11 +1,8 @@
 ---
-title: “The university experience”
+title: The university experience
 author: Tanishtha Goswami (she/her)
 date: January 19, 2022
-coverurl: ./assets/images/uni-exp.png
 ---
-
-
 TW: Sexual Assault
 
 What defines the university experience? For me the university experience is rushing through campus to get to my class that started ten minutes ago while shamefully holding a fresh coffee and thereby getting possibly the worst seat for the next two hours of my life. I think the concept of “the university experience” probably differs person to person, I’m sure to some, it's the parties or clubbing or sports games or other tropes that you see in every coming-of-age movie ever.  It would have never once crossed my mind that these “experiences” that are so intertwined with the idea of university or college could ever be something so brutally honest and to be frank, sad. 
