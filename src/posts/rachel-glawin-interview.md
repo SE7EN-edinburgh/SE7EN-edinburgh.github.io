@@ -1,7 +1,7 @@
 ---
 title: Rachel Gladwin Message From World Interview Transcription
 author: Moira Semel
-date: January 19, 2022
+date: January 20, 2022
 coverurl: ./assets/images/rachel-interview.png
 ---
 
