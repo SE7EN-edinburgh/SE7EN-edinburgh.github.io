@@ -1,7 +1,7 @@
 ---
 title: Zoe Hopper 
 author: Zoe Hopper 
-date: February 14, 2022
+date: February 14, 2021
 coverurl: ./assets/images/zoe-hopper.png
 ---
 My name is Zoe and I am currently a dance student here in Edinburgh. During the height of the pandemic last year, I moved home to Malaysia to be with family and this brought about a massive change to my routine, independent freedoms and way of living. 
