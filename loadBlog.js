@@ -48,7 +48,7 @@ const getPosts = () => {
                     title: metadata.title ? metadata.title : "No title given",
                     author: metadata.author ? metadata.author : "No author given",
                     date: metadata.date ? metadata.date : "No date given",
-                    coverurl : metadata.coverurl ? metadata.coverurl : "No url given",
+                    coverurl: metadata.coverurl ? metadata.coverurl : "No date given",
                     content: content ? content : "No content given",
                 }
                 postlist.push(post)
