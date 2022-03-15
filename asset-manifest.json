@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.054c416b.css",
-    "main.js": "/static/js/main.1e0105bc.js",
+    "main.js": "/static/js/main.c11ff661.js",
     "static/js/865.a0a31b4a.chunk.js": "/static/js/865.a0a31b4a.chunk.js",
     "static/media/cream-paper.png": "/static/media/cream-paper.6b3caa84f867a0f20047.png",
     "static/media/about.md": "/static/media/about.672ba2eb056c61c059c9.md",
     "index.html": "/index.html",
     "main.054c416b.css.map": "/static/css/main.054c416b.css.map",
-    "main.1e0105bc.js.map": "/static/js/main.1e0105bc.js.map"
+    "main.c11ff661.js.map": "/static/js/main.c11ff661.js.map"
   },
   "entrypoints": [
     "static/css/main.054c416b.css",
-    "static/js/main.1e0105bc.js"
+    "static/js/main.c11ff661.js"
   ]
 }
